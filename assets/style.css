@@ -1,0 +1,19 @@
+#convertBtn{
+    margin-top: 1rem;
+}
+
+#result{
+    margin-top: 1rem;
+    /* background:#9df9c1; */
+}
+
+.result1{
+    background:#9df9c1;
+    padding: 10px;
+    border-radius: 10px;
+}
+.result2{
+    background:#f6b4b5;
+    padding: 10px;
+    border-radius: 10px;
+}
